@@ -6,3 +6,4 @@ This project is under active development.
 .. toctree::
 
    prerequirements
+   argoPlot-script
