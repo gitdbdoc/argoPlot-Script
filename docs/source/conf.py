@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'argoPlot-Script'
-copyright = '2021, db'
+copyright = '2022, db'
 author = 'db'
 
 release = '0.1'
