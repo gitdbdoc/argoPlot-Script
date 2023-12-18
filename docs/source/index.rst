@@ -5,6 +5,6 @@ This project is under active development.
 
 .. toctree::
 
-   pre-requirements installation
-   data download
-   data plot
+   prerequirements
+   data_download
+   data_plot
